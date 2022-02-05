@@ -58,7 +58,6 @@
 </p>
 
 <br />
-<br />
 
 ### Tools and IDEs 🛠
 
