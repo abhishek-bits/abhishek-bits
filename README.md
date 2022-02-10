@@ -74,7 +74,7 @@
 
 <br />
 
-[username]: https://github.com/absh2702/
+[username]: https://github.com/abhishek-bits/
 [leetcode]: https://leetcode.com/absh2702/
 [codechef]: https://www.codechef.com/users/absh2702
 [hackerrank]: https://www.hackerrank.com/absh2702
