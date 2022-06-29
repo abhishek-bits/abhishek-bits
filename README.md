@@ -25,10 +25,8 @@
 <br />
 <br />
 
-### Milestones 📌
+### Milestones 2023 📌
 
-- Crack GSSOC 2022.
-- Crack GSOC 2022.
 - Grab an internship in Tech.
 - Grab a job offer in Tech.
 
