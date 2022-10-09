@@ -2,25 +2,23 @@
 
 ### Introduction
 
-- 👨‍🎓 I am currently pursuing my Master's degree in Computer Science from Birla Institute of Technology and Science, Pilani.
-- 🖋 In my current semmester, I am doing learning the following subjects:
-  - Research Practise under **Prof. Chittaranjan Hota** for project entitled: "Identifying Hardware Anchors (interactions between OS and Hardware) in an IOT-CPS device to prevent Code tampering"
-  - Advanced Computer Architecture
-  - Advanced Database Systems
-  - Cryptography and Network Security
-- ✈ In the past semmester, I learnt the following subjects:
-  - Advanced Algorithms and Complexity
-  - Advanced Operating Systems
-  - Advanced Computer Networks
-  - Cloud Computing
+- 👨‍🎓 I am currently pursuing my Master's degree in Computer Science from [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
+
+- I have done my Research Practise work under  [Prof. Chittaranjan Hota](https://universe.bits-pilani.ac.in/hyderabad/chittaranjanhota/Profile) for project entitled: *Identifying Hardware Anchors in an IoT-CPS device to prevent Code tampering*
+
+- In my current semester, I am learning Web 3.0: Blockchain Technology.
+
+- Previously, I completed my Bachelor's degree in Computer Science from [UPES](https://www.upes.ac.in/).
+
 - 👨‍💻 My Software Development interests lies in:
   - Web Application development
+  - Cloud Application development
   - Writing REST APIs and server side scripts
   - Working with Databases (SQL and NoSQL)
 
 ### Connect with me 🤝
 
-[<img align="left" alt="absh2702 | LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="abhishek-bits | LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -76,4 +74,4 @@
 [leetcode]: https://leetcode.com/absh2702/
 [codechef]: https://www.codechef.com/users/absh2702
 [hackerrank]: https://www.hackerrank.com/absh2702
-[linkedin]: https://www.linkedin.com/in/absh2702/
+[linkedin]: https://www.linkedin.com/in/abhishek-bits/
