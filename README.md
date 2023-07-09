@@ -30,7 +30,7 @@ Not frequently active lately 😂🤣
 ### Programming Languages 🎨
 
 | Programming Language | Experience |
-|---|---|---|
+|---|---|
 | Java 8 | Advanced |
 | Python 3 | Intermediate |
 | SQL | Intermediate |
