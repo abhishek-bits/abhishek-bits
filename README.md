@@ -1,6 +1,6 @@
-### Hi there, I'm Abhishek Sharma - [abhishek-bits][https://github.com/abhishek-bits/] 👋
+### Hi there, I'm Abhishek Sharma - [abhishek-bits](https://github.com/abhishek-bits/)
 
-### Introduction
+### Introduction 👋
 
 - I belong to Dehradun, Uttarakhand, India.
 - 👨‍🎓 I have earned my Master's degree in Computer Science from [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/) '2023.
@@ -12,7 +12,7 @@
   - Working with Databases (SQL and NoSQL)
 - Additionally, I am interested in Web 3.0 and Blockchain Technology.
 
-### Internships and Work Experience
+### Internships and Work Experience 🧐
 
 - Incoming Software Engineer at PayU, India.
 - Previously worked as a Backend Engineer Intern at RIVIGO Technologies, Gurugram, India (Jan '2023 to June '2023).
