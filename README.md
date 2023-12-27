@@ -14,7 +14,7 @@
 
 ### Internships and Work Experience 🧐
 
-- Incoming Software Engineer at PayU, India.
+- Currently working as Associate Software Engineer at Wibmo (a PayU/Naspers FinTech Company), India.
 - Previously worked as a Backend Engineer Intern at RIVIGO Technologies, Gurugram, India (Jan '2023 to June '2023).
 
 ### Find me on [LinkedIn](https://www.linkedin.com/in/abhishek-bits/) 🤝
